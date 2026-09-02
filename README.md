@@ -1,5 +1,4 @@
 <img width="1543" height="659" alt="app" src="https://github.com/user-attachments/assets/97497296-08a4-4d66-b708-9eb2aac2c2f8" />
-<img width="1543" height="659" alt="image" src="https://github.com/user-attachments/assets/af6772ce-cf5c-4861-80c7-d399e994c2b1" />
 # Modern Calculator Application
 
 A sleek, responsive, and fully functional standard calculator web application. This project was built to demonstrate core front-end software development concepts alongside modern **Git & GitHub Workflows** (branching strategies, PRs, and conventional commit standards).
