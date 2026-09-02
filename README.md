@@ -34,4 +34,4 @@ You don't need to install any heavy dependencies or runtime environments to run 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/judge22/calculator.git](https://github.com/YOUR_USERNAME/calculator.git)
+   git clone [https://github.com/judge22/calculator.git](https://github.com/judege22/calculator.git)
